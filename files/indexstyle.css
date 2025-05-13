@@ -1,0 +1,14 @@
+@font-face {
+    font-family: S2System;
+    src: url("fonts/sonic-2-system.otf")
+}
+body {
+background-image: url('backgrounds/main-background.png');
+background-attachment: fixed;
+background-size: cover;
+font-family: S2System;
+font-size: 14;
+color: rgb(216, 0, 32);
+text-align: center;
+text-shadow: 2px 2px 0px rgb(252,252,252);
+}
