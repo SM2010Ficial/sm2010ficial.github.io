@@ -3,7 +3,9 @@
     src: url("fonts/somari-font-new-unicode-characters.otf")
 }
 body {
-background-image: url('backgrounds/main-background.png');
+background-image: url('backgrounds/patern.png');
+background-repeat: repeat;
+background-position: center center;
 background-attachment: fixed;
 background-size: cover;
 font-family: Somari;
